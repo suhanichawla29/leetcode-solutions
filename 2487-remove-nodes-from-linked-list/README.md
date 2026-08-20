@@ -16,6 +16,8 @@
 - Node 8 is to the right of node 3.
 </pre>
 
+
+
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
