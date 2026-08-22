@@ -20,9 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
