@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2293-min-max-game) |
 ## Simulation
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
