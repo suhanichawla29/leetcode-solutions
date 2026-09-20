@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -85,8 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
