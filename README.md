@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2293-min-max-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
