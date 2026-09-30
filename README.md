@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Prefix Sum
 |  |
 | ------- |
