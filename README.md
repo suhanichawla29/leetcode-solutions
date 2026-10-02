@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sliding Window
 |  |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
