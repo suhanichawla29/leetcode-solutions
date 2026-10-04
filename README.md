@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2293-min-max-game) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
