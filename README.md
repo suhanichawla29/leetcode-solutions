@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
