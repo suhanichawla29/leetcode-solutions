@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
