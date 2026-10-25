@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2293-min-max-game) |
@@ -233,10 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
