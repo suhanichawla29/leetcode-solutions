@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1084-sales-analysis-iii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1084-sales-analysis-iii) |
 | [1280-students-and-examinations](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1280-students-and-examinations) |
 ## Design
