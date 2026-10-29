@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0877-stone-game) |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
