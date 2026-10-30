@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
@@ -240,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -302,10 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Counting Sort
 |  |
