@@ -243,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
