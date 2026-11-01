@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suhanichawla29/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0877-stone-game) |
+| [3665-twisted-mirror-path-count](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/suhanichawla29/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Counting Sort
 |  |
 | ------- |
