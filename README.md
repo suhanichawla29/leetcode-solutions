@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanichawla29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
